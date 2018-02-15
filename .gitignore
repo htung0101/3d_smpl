@@ -1,0 +1,8 @@
+checkpoint/
+logs/
+samples/
+__pychche__/
+*.pyc
+pack_data/__pycache__/
+pack_data/source
+*.swp
