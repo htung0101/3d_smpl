@@ -20,17 +20,17 @@ Check the [project page](https://sites.google.com/view/selfsupervisedlearningofm
 * python
 We use python2.7.13 from Anaconda and Tensorflow 1.1
 
-* SMPL model
+* SMPL model:
 We need rest body template from SMPL model. 
 
 You can download it from [here](http://smpl.is.tue.mpg.de/).
 
-* SURREAL Dataset
+* SURREAL Dataset:
 If you plan to pretrain or test on surreal dataset. 
 
 Please download surreal from [here](https://github.com/gulvarol/surreal)
 
-* H36M Dataset
+* H36M Dataset:
 If you plan to test on real video with some groundtruth (to evaluate). 
 
 Please download H3.6M Dataset from [here](http://vision.imar.ro/human3.6m/description.php)
